@@ -1,1 +1,1 @@
-shell basic
+variable in linux
