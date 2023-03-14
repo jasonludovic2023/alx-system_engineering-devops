@@ -1,0 +1,2 @@
+#!/bin/bah
+paste - - | cut -f1
